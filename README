@@ -1,0 +1,6 @@
+PIC18DevBoard board simulation and examples.
+Tested tools:
+* MPLAB X IDE 1.00;
+* C18 v3.40;
+* SDCC 3.1.0 + gputils 0.14.1;
+* Proteus 7.7.
