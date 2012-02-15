@@ -1,0 +1,4 @@
+Warning[2060] G:\Documents\Development\PIC18DevBoard\Firmware\Drivers\adc_driver.c 11 : shift expression has no effect
+Warning[2060] G:\Documents\Development\PIC18DevBoard\Firmware\Drivers\adc_driver.c 41 : shift expression has no effect
+Warning[2060] G:\Documents\Development\PIC18DevBoard\Firmware\Drivers\adc_driver.c 46 : shift expression has no effect
+Warning[2060] G:\Documents\Development\PIC18DevBoard\Firmware\Drivers\adc_driver.c 51 : shift expression has no effect
